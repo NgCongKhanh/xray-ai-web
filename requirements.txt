@@ -1,5 +1,7 @@
-ultralytics
 fastapi
 uvicorn
+ultralytics
+reportlab
 python-multipart
+pillow
 opencv-python
