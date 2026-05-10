@@ -1,0 +1,48 @@
+body{
+    background:#020617 !important;
+}
+
+.gradio-container{
+    background:#020617 !important;
+}
+
+footer{
+    visibility:hidden;
+}
+
+h1,h2,h3,p{
+    color:white !important;
+}
+
+.result-card{
+    background:#1e293b;
+    padding:20px;
+    border-radius:15px;
+    margin-top:15px;
+}
+
+.success-card{
+    background:#16a34a;
+    padding:20px;
+    border-radius:15px;
+    color:white;
+    font-size:20px;
+}
+
+.progress-container{
+    background:#334155;
+    border-radius:10px;
+    overflow:hidden;
+    margin-top:10px;
+}
+
+.progress-bar{
+    background:#3b82f6;
+    padding:12px;
+    color:white;
+    font-weight:bold;
+}
+
+button{
+    border-radius:12px !important;
+}
